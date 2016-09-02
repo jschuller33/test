@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pywit
 
 `pywit` is the Python SDK for [Wit.ai](http://wit.ai).
