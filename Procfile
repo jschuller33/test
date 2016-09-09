@@ -1,1 +1,1 @@
-web: python quickstart.py
+web: python simple-https-server.py
