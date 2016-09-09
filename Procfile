@@ -1,1 +1,1 @@
-web: python wit.py
+web: python quickstart.py
