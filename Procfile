@@ -1,1 +1,1 @@
-web: node wit.py
+web: node setup.py
